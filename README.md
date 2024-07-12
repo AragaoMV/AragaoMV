@@ -1,6 +1,6 @@
 <h1> Olá!!👋 </h1>
 
-<p>Sou Marcos Aragao, UX/UI Designer com conhecimento em programação Mobile. </p>
+<p>Sou Marcos Aragao, tenho conhecimento de UX/UI, Desenvolvimento Mobile, Front-End Web, Games . </p>
 
 <h2>Contatos</h2> 
 <div>
